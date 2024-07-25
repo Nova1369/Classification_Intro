@@ -3,7 +3,7 @@ Multi-class classification of datasets
 
 <br><u>
 Skin Cancer Dataset
-</br></u>
+</u></br>
 
 <br>
 a.
@@ -39,7 +39,7 @@ with learning rate 0.1 with batch size set to 32.
 
 <br><u>
 Orange Dataset
-</br></u>
+</u></br>
 
 <br>
 a.
