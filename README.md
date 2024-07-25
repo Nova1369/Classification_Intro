@@ -1,9 +1,9 @@
 # Classification_Intro
 Multi-class classification of datasets
 
-<br><u>
+<h1><u>
 Skin Cancer Dataset
-</u></br>
+</u></h1>
 
 <br>
 a.
@@ -37,9 +37,9 @@ and dropout rate set to 0.5, 0.4, 0.3, 0.1 respectively. Use optimizer as Nadam
 with learning rate 0.1 with batch size set to 32.
 </br>
 
-<br><u>
+<h1><u>
 Orange Dataset
-</u></br>
+</u></h1>
 
 <br>
 a.
